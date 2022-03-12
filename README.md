@@ -1,6 +1,6 @@
 ## USEV
 
-A PyTorch implementation of the USEV: Universal Speaker Extraction with Visual Cue
+A PyTorch implementation of the "USEV: Universal Speaker Extraction with Visual Cue"
 
 ## Project Structure
 
