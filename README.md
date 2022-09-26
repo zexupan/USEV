@@ -15,3 +15,7 @@ A PyTorch implementation of the "USEV: Universal Speaker Extraction with Visual 
 ## Training
 
 We provided the pre-trained weights from the Voxceleb2 dataset, you can just generate the iemocap-mix dataset and train from the pre-trained checkpoint; or you can generate the pre-trained voxceleb2-mix dataset and start from the pre-training stage.
+
+## Questions
+
+For any questions, you can send an email to pan_zexu at u.nus.edu
